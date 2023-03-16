@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JorgePerezEC and I'm from Ecuador
-- 👀 I’m interested in data science and all about web development
-- 🌱 I’m currently learning about data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, well send me a mail please: jorge.perez01epn@gmail.com
-
-<!---
-JorgePerezEC/JorgePerezEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @JorgePerezEC I'm currently studying Information Technology (IT) Engineering where I'm doing my degree work developing a desktop application in C#.
+- 👀 I'm interested in data science, data mining, developing ioT systems and also everything related to web and mobile development.
+- 🌱 I am currently learning about data science.
+- 💞️ I am looking to collaborate in a company that deals with data science.
+- 📫 How to contact me, well send me an email please: jorge.perez01epn@gmail.com
