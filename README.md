@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @JorgePerezEC I'm currently studying Information Technology (IT) Engineering where I'm doing my degree work developing a desktop application in C#.
+- 👋 Hi, I'm @JorgePerezEC I'm recent gradueted from Information Technology (IT) Engineering and right now I'm working in a reserch department where every day I'm developing more my code skills.
 - 👀 I'm interested in data science, data mining, developing ioT systems and also everything related to web and mobile development.
 - 🌱 I am currently learning about data science.
 - 💞️ I am looking to collaborate in a company that deals with data science.
